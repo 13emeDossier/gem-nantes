@@ -3,12 +3,13 @@ layout: base
 ---
 
 {% include header.html type="page" %}
-
-<div class="content-area small-12 medium-8 columns sidebar-right" role="main">
-  <main class="site-main" id="main" role="main">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
-	   </div>
-  </main>
-  {% include sidebar.html %}
+<div class="site-content" id="content">
+  <div class="content-area small-12 medium-8 columns sidebar-right" id="primary">
+    <main class="site-main" id="main" role="main">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ content }}
+      </div>
+    </div>
+    {% include sidebar.html %}
+  </div>
 </div>
