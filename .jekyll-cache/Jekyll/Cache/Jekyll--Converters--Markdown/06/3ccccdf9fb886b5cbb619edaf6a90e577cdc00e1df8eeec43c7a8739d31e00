@@ -1,0 +1,134 @@
+I"<p>To my huge surprise, Beautiful Jekyll has been used in over 500 websites in its first 6 months alone! Here is a hand-picked selection of some websites that use Beautiful Jekyll.</p>
+
+<p>Want your website featured here? <a href="http://deanattali.com/aboutme#contact">Contact me</a> to let me know about your website.</p>
+
+<h3 id="projectcompany-websites">Project/company websites</h3>
+
+<table class="table table-responsive">
+  <thead>
+    <tr>
+      <th style="text-align: left">Website</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="http://www.repidemicsconsortium.org/">repidemicsconsortium.org/</a></td>
+      <td style="text-align: left">R Epidemics Consortium</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://www.vaccineimpact.org/">vaccineimpact.org</a></td>
+      <td style="text-align: left">Vaccine Impact Modelling Consortium</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://derekogle.com/fishR/">derekogle.com/fishR</a></td>
+      <td style="text-align: left">Using R for Fisheries Analyses</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://bigdata.juju.solutions">bigdata.juju.solutions</a></td>
+      <td style="text-align: left">Creating Big Data solutions Juju Solutions</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://joecks.github.io/clipboard-actions/">joecks.github.io/clipboard-actions</a></td>
+      <td style="text-align: left">Clipboard Actions - an Android app</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://deanattali.com/shinyjs/">deanattali.com/shinyjs</a></td>
+      <td style="text-align: left">shinyjs - an R package</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://blabel.github.io">blabel.github.io</a></td>
+      <td style="text-align: left">Library for canonicalising blank node labels in RDF graphs</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://reactionic.github.io">reactionic.github.io</a></td>
+      <td style="text-align: left">Create iOS and Android apps with React and Ionic</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://ja2-stracciatella.github.io">ja2-stracciatella.github.io</a></td>
+      <td style="text-align: left">Jagged Alliance 2 Stracciatella</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://ddocent.com/">ddocent.com</a></td>
+      <td style="text-align: left">RADSeq Bioinformatics and Beyond</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://www.guitarlessons.org/">guitarlessons.org</a></td>
+      <td style="text-align: left">Free online guitar lessons for all</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://www.terremotocentroitalia.info/">terremotocentroitalia.info</a></td>
+      <td style="text-align: left">Information about the 2016 Italy earthquake</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="personal-websites">Personal websites</h3>
+
+<table class="table table-responsive">
+  <thead>
+    <tr>
+      <th style="text-align: left">Website</th>
+      <th style="text-align: left">Who</th>
+      <th style="text-align: left">What</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="http://deanattali.com">deanattali.com</a></td>
+      <td style="text-align: left">Dean Attali</td>
+      <td style="text-align: left">Creator of Beautiful Jekyll</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://ouzor.github.io">ouzor.github.io</a></td>
+      <td style="text-align: left">Juuso Parkkinen</td>
+      <td style="text-align: left">Data scientist</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://derekogle.com/">derekogle.com</a></td>
+      <td style="text-align: left">Derek Ogle</td>
+      <td style="text-align: left">Professor of Mathematical Sciences and Natural Resources</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://melyanna.github.io/">melyanna.github.io</a></td>
+      <td style="text-align: left">Melyanna</td>
+      <td style="text-align: left">Shows off her nice art</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://chauff.github.io/">chauff.github.io</a></td>
+      <td style="text-align: left">Claudia Hauff</td>
+      <td style="text-align: left">Professor at Delft University of Technology</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://kootenpv.github.io/">kootenpv.github.io</a></td>
+      <td style="text-align: left">Pascal van Kooten</td>
+      <td style="text-align: left">Data analytics</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://sjackman.ca">sjackman.ca</a></td>
+      <td style="text-align: left">Shaun Jackman</td>
+      <td style="text-align: left">PhD candidate in bioinformatics</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://www.anudit.in/">anudit.in</a></td>
+      <td style="text-align: left">Anudit Verma</td>
+      <td style="text-align: left">Engineering student</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="http://sharepointoscar.github.io">sharepointoscar.github.io</a></td>
+      <td style="text-align: left">Oscar Medina</td>
+      <td style="text-align: left">Independent Hacker</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://ocram85.com">ocram85.com</a></td>
+      <td style="text-align: left">Marco Blessing</td>
+      <td style="text-align: left">A personal blog about PowerShell and automation</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://khanna.cc/">khanna.cc</a></td>
+      <td style="text-align: left">Harry Khanna</td>
+      <td style="text-align: left">Law and software</td>
+    </tr>
+  </tbody>
+</table>
+:ET
