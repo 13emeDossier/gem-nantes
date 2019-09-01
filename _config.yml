@@ -27,12 +27,12 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  - Accueil:
-    - GEM de Nantes: "gem-de-nantes"
-  - Actualites:
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  - S'ouvrir sur la cité: "http://deanattali.com"
+  Accueil:
+    GEM de Nantes: "gem-de-nantes"
+  Actualites:
+    Featured users: "featured-users"
+    Project page: "https://github.com/daattali/beautiful-jekyll#readme"
+  S'ouvrir sur la cité: "http://deanattali.com"
 
 # --- Footer options --- #
 
