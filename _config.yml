@@ -9,7 +9,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "https://13emedossier.github.io/"
-baseurl: "/gem-nantes"
+baseurl: "gem-nantes/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Accueil: "gem-de-nantes"
     - GEM de Nantes: "gem-de-nantes"
-  Actualites:
+  Actualites: "getstarted"
     - Getting started: "getstarted"
     - Featured users: "featured-users"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
@@ -79,7 +79,7 @@ google_analytics: "UA-59820529-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
