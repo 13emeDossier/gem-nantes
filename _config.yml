@@ -14,10 +14,10 @@ baseurl: "/gem-nantes"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: GEM de Nantes
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Le Nouveau Cap
 
 # --- Navigation bar options --- #
 
@@ -27,13 +27,13 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Resources:
+  Accueil: "gem-de-nantes"
+    - GEM de Nantes: "gem-de-nantes"
+  Actualites:
     - Getting started: "getstarted"
     - Featured users: "featured-users"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  S'ouvrir sur la cité: "http://deanattali.com"
 
 # --- Footer options --- #
 
