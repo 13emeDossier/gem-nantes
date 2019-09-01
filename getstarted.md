@@ -1,46 +1,43 @@
 ---
 layout: page
-title: Getting started
-subtitle: How to use Beautiful Jekyll
+title: GEM de Nantes
+subtitle: Presentation
 bigimg: /img/start.jpg
 ---
 
-**Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
+## Un GEM c’est quoi ?
+Les Groupes d’Entraide Mutuelle (GEM) ont été introduit par <span style="color: #4dbf99;">la loi du 11 février 2005 </span>pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes en situation de handicap.
+Le GEM c’est:
+* Une association loi 1901 à but non lucratif
+* Un outil d’insertion dans la cité
+* Un outil de lutte contre l’isolement
+* Une association d’usagers en santé mentale gérée par les adhérents soutenus par:
+** Une équipe de professionnels
+** Un organisme d’aide à la gestion ([l’Etape](http://www.etape-nantes.fr))
+** Un parrain ([Fédération santé mentale France](https://santementalefrance.fr))
 
-To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
+Les GEM sont dédiés :
+* Aux personnes présentant prioritairement un handicap résultant de troubles psychiques.
 
+Au GEM de Nantes “Le Nouveau Cap” on préfère parler “d’adhérents” ou de”membres du GEM” plutôt que d’usagers.
+Aujourd’hui,il existe environ 450 GEM en France.
 
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
-<br/>
+## Les Principes d’un GEM
+Les GEM reposent:
+* Sur l’entraide entre ses membres.
+* Sur le principe de l’autogestion : les membres sont ceux qui font vivre l’association.
 
-## Overview of steps required
+Les membres décident :
+* Des activités du GEM
+* De son fonctionnement
+* De son organisation
+Le Conseil d’administration du GEM, composé uniquement d’adhérent.
 
-There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
-
-Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
-
-<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
-
-### 1. Fork the Beautiful Jekyll repository 
-
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
-
-### 2. Rename the repository to `yourusername.github.io`
-
-This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
-
-### 3. Customize settings
-
-Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
-
-You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
-
----
-
-See how easy that is? I wasn't lying - it really can be done in two minutes.
-
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
+## Que fait-on au GEM de Nantes?
+* Le GEM de Nantes est ouvert <span style="color: #4dbf99;">7j/7 et &nbsp;environ 365j/an.</span>
+* Le GEM propose différentes activités diverses et variées (cf. lien planning) 
+* Les activités sont encadrées par des “adhérents référents” qui mettent leurs connaissances et compétences au service de l’association. Parmi toutes les activités proposées au GEM, on retrouve: 
+** Des cours d’anglais/espagnol
+** Des ateliers musicaux
+** <a href="/restaurant">Un restaurant</a>
+** Un espace cafétéria
